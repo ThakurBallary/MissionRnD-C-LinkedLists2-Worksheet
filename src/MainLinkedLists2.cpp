@@ -20,9 +20,9 @@ int main(){
 
 	//Test LinkedListMedian
 
-	//Test merge2 LinkedLists
+	//Test merge2LinkedLists
 
-	//Test reverse LinkedList
+	//Test reverseLinkedList
 
 	return 0;
 }
